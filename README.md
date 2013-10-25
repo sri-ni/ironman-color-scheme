@@ -7,6 +7,14 @@ A color scheme for Sublime Text 2
 
 ##### Screenshots below
 
-**JS
+**JS**
 
-![alt text](screenshots/ironman_js.png "Ironman Color Scheme for JavaScript file")
+![alt text](screenshots/ironman_js.png "Ironman Color Scheme for JavaScript")
+
+**CSS**
+
+![alt text](screenshots/ironman_css.png "Ironman Color Scheme for CSS")
+
+**HTML**
+
+![alt text](screenshots/ironman_html.png "Ironman Color Scheme for HTML")
