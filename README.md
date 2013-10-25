@@ -8,4 +8,4 @@ A color scheme for Sublime Text 2
 
 
 JS: 
-![alt text](https://github.com/firerishi/ironman-color-scheme/blob/master/screenshots/ironman_js.png "Logo Title Text 1")
+![alt text](screenshots/ironman_js.png "Logo Title Text 1")
